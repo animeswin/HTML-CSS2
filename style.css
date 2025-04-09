@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: #2E86C1;
+}
+
+table {
+    border-collapse: collapse;
+    width: 30%;
+    margin: 10px auto;
+}
+
+th, td {
+    border: 1px solid #000;
+    text-align: center;
+    padding: 5px;
+}
+
+th {
+    background-color: #f4f4f4;
+}
+
+caption {
+    font-size: 1.5em;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.feriado {
+    color: red;
+    font-weight: bold;
+}
+
+.agendamento {
+    color: blue;
+}
